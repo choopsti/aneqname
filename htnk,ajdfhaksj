@@ -1,1 +1,13 @@
-
+<!DOCTYPE html>
+<html lang="KO">
+    <head>
+       <meta charset="UTF-8">
+       <title>qudtls</title>
+   </head>
+   <body>
+       <script> // 다음과 같은 코드는 피하세요.
+        while (ture) {
+          alert("이 바보야");
+        }</script>
+   </body>
+</html>
